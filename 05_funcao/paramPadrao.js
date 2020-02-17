@@ -25,4 +25,4 @@ function soma3(a = 1, b = 1, c = 1) { // seguro quando se trata de valores numé
 
 console.log(soma3(), soma3(3), soma3(1, 2, 3), soma3(0, 0, 0))
 
-// sempre escolha os recursos mais novos da linguagem (es2015 até então)
+// sempre que puder escolha os recursos mais novos da linguagem (es2015 até então)
